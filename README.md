@@ -15,7 +15,7 @@ The target variable is the species of the flower, which is not used during clust
 You can download the dataset from Kaggle:  
 [Iris Dataset on Kaggle](https://www.kaggle.com/datasets/arshid/iris-flower-dataset)
 
-You can download the project from Kaggle:  
+You can download My project from Kaggle:  
 [My project on Kaggle](https://www.kaggle.com/code/mohamadrezazaheri/k-means-machine-learning-algorithms)
 
 
