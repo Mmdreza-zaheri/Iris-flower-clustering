@@ -62,19 +62,3 @@ The project includes several visualizations such as:
 - `matplotlib`
 - `scikit-learn`
 
-## How to Run
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    ```
-   
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the Python script to see the results:
-    ```bash
-    python clustering_analysis.py
-    ```
